@@ -14,7 +14,9 @@ This project provides a **simple Colab notebook** to compute the **Fréchet Audi
 
 Click below to launch the notebook in Colab:
 
-[![Open In Colab] https://github.com/jeremybboy/Frechet_Audio_Distance/blob/main/Test_FAD_VGGISH.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/jeremybboy/Frechet_Audio_Distance/blob/main/Test_FAD_VGGISH.ipynb)
+
 
 ---
 
